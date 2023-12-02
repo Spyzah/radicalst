@@ -1,0 +1,31 @@
+{
+  "token": "MTA4MTIwMjIwMzk4MjgyMzQyNA.GfphWW.ojBq-ZXQfpoSw0uwkVCaQDn9ObITP4UZxB_yTc", 
+  "sunucid": "1177959110684192768",
+  "developer": "402168029733060618",
+  "yetkili": "1177959180984922214",
+  "unkarakteronay": "",
+  "karakteronay": "",
+  "unwl": "1131697342198845483",
+  "wl": "1131870557600751636",
+  "wlisim": "İC İSİM / OOC İSİM",
+  "unwlisim": "",
+  "teyitses": "1129742177984053273",
+  "botungirecegises": "1180494829667491950",
+  "server": {
+    "servername": "Radical ST",
+    "ip": "Spy Marketim Sunucu ip",
+    "cfxtiklabaglanip": "https://cfx.re/join/",
+    "ts3ip": "Spy Marketim Ts3 ip",
+    "port": "30120"
+  },
+  "guild": {
+    "jail": "1131697200737558639"
+  },
+  "logs": {
+    "ban": "",
+    "basvuru": ""
+  },
+  "log": "1177628165032652851",
+  "color": "#000ebe",
+  "duration": 5000 
+}
